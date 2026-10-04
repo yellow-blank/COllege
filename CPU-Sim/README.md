@@ -723,10 +723,11 @@ The practicals progressively demonstrate how CPU registers, memory, instructions
 ---
 **Completed**
 
-
+```
 while True:
     learn()
     build()
     dream()  # ✨
 
 # ~ Tushar 🤍
+```

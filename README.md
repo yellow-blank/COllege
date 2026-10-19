@@ -1,17 +1,20 @@
-<div align="center">
+ <div align="center">
 
-```text
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=C9B8FF&center=true&vCenter=true&width=500&lines=while+True%3A+%E2%9C%A8;learn()+%E2%80%A2+build()+%E2%80%A2+dream();keep+creating...+%E2%9C%A8" />
+
+```python
 while True:
     learn()
     build()
     dream()  # ✨
 ```
 
-### `~ yellow.Tushar 🤍`
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20GROWING-c9b8ff?style=flat-square&labelColor=151515" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=learning+%F0%9F%92%BB;building+%F0%9F%9A%80;dreaming+%E2%9C%A8;repeat+%F0%9F%A4%8D" />
+<br/>
+
+`~ yellow.Tushar 🤍`
+
+*✦ made of curiosity & dreams ✦*
 
 </div>
-```
-
-Isme **typing animation** chalegi: `learning → building → dreaming → repeat` ✨

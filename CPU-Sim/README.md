@@ -723,7 +723,7 @@ The practicals progressively demonstrate how CPU registers, memory, instructions
 ---
 **Completed**
 
-```
+```python
 while True:
     learn()
     build()

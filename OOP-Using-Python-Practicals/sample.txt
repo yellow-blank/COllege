@@ -1,0 +1,4 @@
+Python is a versatile language.
+It supports procedural and object-oriented programming.
+Files can be read and written with Python.
+Practice helps build confidence.
